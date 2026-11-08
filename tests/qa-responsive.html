@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="zh-CN">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>阿门试衣 · 模拟手机取景验证</title>
+<style>
+body{margin:24px;background:#e6e6e3;color:#222;font:14px system-ui}header{display:flex;gap:20px;align-items:center;margin-bottom:16px}select{padding:8px}iframe{display:block;width:390px;height:844px;border:0;background:#fafafa;border-radius:18px;box-shadow:0 0 0 1px #ccc}
+</style>
+<header><strong>模拟手机视口 · 非实机摄像头</strong><label>屏幕 <select id="size"><option value="390,844">竖屏 390 × 844</option><option value="844,390">横屏 844 × 390</option><option value="320,568">小屏 320 × 568</option></select></label></header>
+<iframe title="手机试衣页面" src="/?camera=portrait&qa=responsive"></iframe>
+<script>
+const requestedFrames=new URLSearchParams(location.search).get('frames');
+if(requestedFrames==='stalled')document.querySelector('iframe').src='/?camera=portrait&qa=responsive&frames=stalled';
+document.querySelector('#size').onchange=event=>{const [width,height]=event.target.value.split(',');const frame=document.querySelector('iframe');frame.style.width=width+'px';frame.style.height=height+'px';};
+</script>
+</html>

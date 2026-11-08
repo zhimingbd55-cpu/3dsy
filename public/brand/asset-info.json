@@ -1,0 +1,40 @@
+{
+  "brand": "1➕衣",
+  "colors": {
+    "ink": "#151515",
+    "orange": "#ff641f",
+    "paper": "#ffffff"
+  },
+  "logoViewBox": "0 0 320 120",
+  "posterSize": [
+    1080,
+    1620
+  ],
+  "logo": "Custom numeral and plus layout; clothing character outlined from Noto Sans SC.",
+  "font": {
+    "name": "Noto Sans SC",
+    "source": "https://github.com/google/fonts/tree/main/ofl/notosanssc",
+    "license": "SIL Open Font License 1.1",
+    "licenseFile": "OFL-NotoSansSC.txt",
+    "sourceSha256": "a3041811a78c361b1de50f953c805e0244951c21c5bd412f7232ef0d899af0da",
+    "modifications": "Static weight 900 for poster and 700 for share controls; glyph subsets; WOFF compression; outlined logo glyph."
+  },
+  "rebuild": [
+    "python scripts/build-brand.py <NotoSansSC.ttf>",
+    "python scripts/build-share-preview.py",
+    "node scripts/export-brand.mjs"
+  ],
+  "pngExports": {
+    "logo.png": "transparent 1280x480",
+    "logo-mono.png": "transparent 1280x480",
+    "icon.png": "transparent 544x544",
+    "icon-mono.png": "transparent 544x544",
+    "icon-180.png": "180x180 white background",
+    "icon-192.png": "192x192 white background",
+    "icon-512.png": "512x512 white background",
+    "logo-white.png": "transparent 1280x480 white",
+    "icon-white.png": "transparent 544x544 white",
+    "share-thumb.png": "512x512 opaque white; public logo thumbnail, no private content",
+    "share-card.png": "1200x630 opaque white; public brand preview, no private content"
+  }
+}

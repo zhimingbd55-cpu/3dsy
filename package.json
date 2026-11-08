@@ -1,0 +1,35 @@
+{
+  "name": "amen-tryon",
+  "version": "2.0.0",
+  "private": true,
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">=24.0.0"
+  },
+  "scripts": {
+    "dev": "node --env-file-if-exists=.env server/index.mjs --dev",
+    "build": "tsc --noEmit && vite build",
+    "start": "node --env-file-if-exists=.env server/index.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "demo:seed": "node --env-file-if-exists=.env scripts/seed-demo.mjs",
+    "admin:hash": "node scripts/admin-hash.mjs",
+    "check:api": "node --env-file-if-exists=.env scripts/check-api.mjs"
+  },
+  "dependencies": {
+    "@decartai/sdk": "0.2.8",
+    "express": "5.3.0",
+    "multer": "^2.0.2",
+    "qrcode": "^1.5.4",
+    "sharp": "0.35.5",
+    "three": "0.180.0",
+    "ws": "^8.18.3"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "@types/qrcode": "^1.5.6",
+    "@types/three": "0.180.0",
+    "typescript": "^5.9.3",
+    "vite": "8.3.4"
+  }
+}

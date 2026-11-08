@@ -1,0 +1,247 @@
+[
+  {
+    "id": "maid-lolita",
+    "name": "女仆洛丽塔连衣裙",
+    "category": "outfit",
+    "details": "a black maid Lolita dress with puffed shoulders, fitted long sleeves, a white pointed collar and ruffled buttoned bib with red piping, burgundy neck bow, white cuffs and ruffled apron, and a full skirt with white frills and red-edged white bands.",
+    "position": -1,
+    "sha256": {
+      "original.glb": "63a6320fa44f5fbaf3f64961c6b240d17f953bbcf29959900ed67fd2c47bc85e",
+      "reference.webp": "36e960e74b5f7a356a1bf691d37ceba26742fc81faaa948b8f8d4b34f4df8884"
+    }
+  },
+  {
+    "id": "fantasy-outfit-07",
+    "name": "幻想服饰 07",
+    "category": "outfit",
+    "details": "a light-gray long robe with short outer sleeves, a white crossed inner collar, full white gathered sleeves, gray tied cuffs, a broad wrapped gray sash and split long front panels over a pleated white lower layer.",
+    "position": 0,
+    "sha256": {
+      "original.glb": "5e92c4bd11e1f94038317f6333dcc0204a298a94833bce9be143043484e278ba",
+      "reference.webp": "13421261335ea3cf376741b841cc8284ec0e8552d7cd508cda2db5a6a9021f47"
+    }
+  },
+  {
+    "id": "hanfu-guofeng",
+    "name": "朱红齐胸汉服",
+    "category": "outfit",
+    "details": "a coral-pink top with a white-edged crossed neckline and very wide flared sleeves, paired with a pale sage-green chest-high long skirt, a pale floral chest band and two long dark-green front ties.",
+    "position": 1,
+    "sha256": {
+      "original.glb": "d18d34db6f4bef0f9d467bf9351d6b6d17e40d59c6e172bbb57c10dbf7690c30",
+      "reference.webp": "7587bfca7036c739eaa740812be8b1ee4493a0c18165d79e1605900efbd290c2"
+    }
+  },
+  {
+    "id": "hanfu-ink",
+    "name": "墨纹长褙子",
+    "category": "outfit",
+    "details": "an ivory open-front robe with wide hanging sleeves and thin dark edging, a gray square-neck cropped inner top with a small central opening, and an ivory high-waisted skirt with fine gray swirling wave patterns and gray hanging ties.",
+    "position": 2,
+    "sha256": {
+      "original.glb": "4d06310e36a3c9405c49b5f87e344ea5e915427ffa4b935a2b76a7deef38d274",
+      "reference.webp": "6ff9ac4d468869c9ab80d4f8e6d1f68987c20c0d57e3f8c2aacc48c2b0a5d14b"
+    }
+  },
+  {
+    "id": "hanfu-flower",
+    "name": "牡丹广袖汉服",
+    "category": "outfit",
+    "details": "a pale-pink Hanfu dress with wide flared sleeves, coral crossed collar and cuff bands bearing white flowers and thin gold edging, a matching floral waist band, a coral front bow and a softly gathered pink skirt.",
+    "position": 3,
+    "sha256": {
+      "original.glb": "007216760f99d37facb2d8a1753cb625161cb27a24dd0548dbea9941886953e7",
+      "reference.webp": "b13667033a6bb0327171bda6976fb46306215cf791ae98c8382ba3b000044cc5"
+    }
+  },
+  {
+    "id": "hanfu-phoenix",
+    "name": "凤凰纹广袖汉服",
+    "category": "outfit",
+    "details": "a pink open-front long robe with very long hanging sleeves bearing large pale-gold phoenix motifs, pale-gold floral edging, a pink waist bow and a matching pink straight-neck inner dress.",
+    "position": 4,
+    "sha256": {
+      "original.glb": "cfdb75c28c32112625105a642ec70a1934ec969683c60de27949cce651bfb6ce",
+      "reference.webp": "9822b0e61c020a751ca6cc72ec3dceac99f9adaea25199d22d4f086a0e27dd9c"
+    }
+  },
+  {
+    "id": "hanfu-gufeng1",
+    "name": "古风长袍",
+    "category": "outfit",
+    "details": "a pale lavender-white open-front robe with layered wide sleeves and thin gray-purple edging, a plain gray straight-neck inner top, and a plain ivory high-waisted long skirt with a pale waist tie.",
+    "position": 5,
+    "sha256": {
+      "original.glb": "7a87343b917fef0fbdd6f4b47b43e8e625744303efae6a8eb7bd64d557f7aee2",
+      "reference.webp": "4a19c5056731fcd133ac205e616e6dc860e1a8b23b77c91f4779776a973606a9"
+    }
+  },
+  {
+    "id": "hanfu-gufeng3",
+    "name": "叠层宽袖和服",
+    "category": "outfit",
+    "details": "an ivory open outer robe with blue floral and butterfly motifs, wide hanging sleeves and pink sleeve ties, over a pale-pink crossed-collar inner robe with a white collar, a broad blue-gray waist band and slim pink ties.",
+    "position": 6,
+    "sha256": {
+      "original.glb": "df0f1c3184c9fd4df75bc40431864b85324b435097083a61d95a10b7d379afde",
+      "reference.webp": "0fd72767ac6ae3e8f63dde01250bcfbc93c7ff7df956b7315aa488aa7aad1a04"
+    }
+  },
+  {
+    "id": "kimono-003",
+    "name": "纹样和服",
+    "category": "outfit",
+    "details": "a muted gray-green wrap kimono with a pale inner collar, broad sleeves and ivory flowering-branch motifs, held closed by a wide taupe floral obi and a thin pale front cord; preserve the uneven pattern placement.",
+    "position": 7,
+    "sha256": {
+      "original.glb": "0bbcc910a89a92c2cabdc642613c8fb71b8c334d7db0e4c919a4a649e5469f4c",
+      "reference.webp": "2d4da6fd0c95fa5c7d3925149738d2d1cf968f772eaccc89a4101801ef2a20d7"
+    }
+  },
+  {
+    "id": "kimono-001",
+    "name": "传统纹样和服",
+    "category": "outfit",
+    "details": "a charcoal open robe with broad asymmetric sleeves, one muted-rose sleeve panel, black-and-white wave-patterned edging and lower panels with small red accents, over a charcoal rose-trimmed crossed-collar inner top and matching patterned lower layers.",
+    "position": 8,
+    "sha256": {
+      "original.glb": "c368c194b2c9029bb5df57ad72776cc197ee2e576f996701cdecbdd30c5640a9",
+      "reference.webp": "d581f71d11c6f03ed07d437b8d11c1276069179d4b958949452b859f1e2263b1"
+    }
+  },
+  {
+    "id": "kimono-base",
+    "name": "素色日式和服",
+    "category": "outfit",
+    "details": "a plain white wrap kimono with layered crossed collars, very wide hanging sleeves, a broad white wrapped waist sash and long white hanging ties; keep the fabric unpatterned and the front closed.",
+    "position": 9,
+    "sha256": {
+      "original.glb": "4b8b6aa6ca31411ee17a3064d1f36bfe607fb20d8af907a8c32be3947462c669",
+      "reference.webp": "60a81b914960ae803b3a9bfcc1339a48547512b481a746b1fe7e76d8806db9bd"
+    }
+  },
+  {
+    "id": "hakama",
+    "name": "袴褶套装",
+    "category": "outfit",
+    "details": "a coral-pink crossed-collar kimono top with large hanging sleeves and white floral and bird motifs, a pale inner collar, a peach front-bow sash, and high-waisted gray-green hakama with deep vertical pleats.",
+    "position": 10,
+    "sha256": {
+      "original.glb": "0f8484402572684d30d1fa7d630feb25c2acd25e186b2ffe4c4961b61a692a6b",
+      "reference.webp": "6e1f4b4bf4cf3d94769e18c55f81f170ef003481120224648990fbaf40540476"
+    }
+  },
+  {
+    "id": "hanfu-asian",
+    "name": "素雅交领汉服",
+    "category": "outfit",
+    "details": "a plain white crossed-collar top with broad rounded hanging sleeves and pale-gray collar edging, a wide light-gray wrapped sash with a front tie, and a light-gray pleated lower layer with white edging over a white underlayer.",
+    "position": 11,
+    "sha256": {
+      "original.glb": "c212570009a61806468102f0247da59a397e6a71995beb2c4177fc26a4bb906c",
+      "reference.webp": "e99c6dd15d921e874f3dd36251288fb87c2a33829386b918f0f8c49df4544fa0"
+    }
+  },
+  {
+    "id": "hanfu-gufeng4",
+    "name": "纹锦古风汉服",
+    "category": "outfit",
+    "details": "a mint-blue round-neck top with a small central floral motif and coral sleeve bands, white fitted inner sleeves with coral cuffs, a blue-green sash with long ties, a coral-and-cream vertically paneled skirt and a sheer floral drape.",
+    "position": 12,
+    "sha256": {
+      "original.glb": "05e098f449730813736dc54a2fb33b0d676b2bf1302137282391f139c8db55f2",
+      "reference.webp": "0f3e1f0a77eba5e1486e44029d3c22d7b4acfc0461c3a1012069295cdcdefafb"
+    }
+  },
+  {
+    "id": "hanfu-yusheng",
+    "name": "余生长衫",
+    "category": "outfit",
+    "details": "an ivory crossed-collar top with loose gathered sleeves and a central bird-and-flower motif, paired with a muted teal pleated skirt bearing horizontal floral bands and two long ivory front ribbons.",
+    "position": 13,
+    "sha256": {
+      "original.glb": "5170bc07ccc3e4e82b64ffb1ec331ad1cf7d81553aec29794776b2ad9eac7ad2",
+      "reference.webp": "ae2f55f62fefae4f33188cfba22b88bb73ab2d3ba13edcb4a76b7a027d7c4764"
+    }
+  },
+  {
+    "id": "cardigan-berry-2d",
+    "name": "米白V领针织开衫",
+    "assetType": "2d",
+    "category": "top",
+    "details": "a cream chunky-knit V-neck cardigan with five beige buttons, dropped shoulders, long sleeves, and ribbed placket, cuffs and hem.",
+    "position": 14,
+    "creator": "阿门试衣项目（生成素材）",
+    "source": "为阿门试衣制作",
+    "license": "项目生成素材",
+    "modifications": "整理为白底正面服装参考图；不含人物、人台、衣架、文字或品牌。",
+    "sha256": {
+      "original.png": "f21ba3d57cf585ec99214b418f7d110fea565699b81d851dc4e70a1b87a5d8c8",
+      "reference.webp": "df734125af657ff4d1a48f477740fe64ad178aaa097a990b36d87b5deeb81e80"
+    }
+  },
+  {
+    "id": "hoodie-navy-2d",
+    "name": "海军蓝连帽卫衣",
+    "assetType": "2d",
+    "category": "top",
+    "details": "a navy pullover hoodie with an integrated hood, relaxed fit, long sleeves, ribbed cuffs and hem, and a plain kangaroo pocket without logo or text.",
+    "position": 15,
+    "creator": "阿门试衣项目（生成素材）",
+    "source": "为阿门试衣制作",
+    "license": "项目生成素材",
+    "modifications": "整理为白底正面服装参考图；不含人物、人台、衣架、文字或品牌。",
+    "sha256": {
+      "original.png": "27ce875f8a9a7bcf6598b4d35f1067ac89ac3929052af9a9b3f568c69653d2c3",
+      "reference.webp": "72df5f59f4dea9f8dae54d3c9440afb5d4e19d0252b6380f408977d716abe034"
+    }
+  },
+  {
+    "id": "sweater-sage-2d",
+    "name": "鼠尾草绿条纹毛衣",
+    "assetType": "2d",
+    "category": "top",
+    "details": "a sage-green knit sweater with fine ivory horizontal stripes, crew neck, long sleeves and ribbed cuffs and hem; preserve stripe spacing.",
+    "position": 16,
+    "creator": "阿门试衣项目（生成素材）",
+    "source": "为阿门试衣制作",
+    "license": "项目生成素材",
+    "modifications": "整理为白底正面服装参考图；不含人物、人台、衣架、文字或品牌。",
+    "sha256": {
+      "original.png": "3946113923f5d540d9597ee4f76dd11869e316243e97ca8ca335d2c3d266fa34",
+      "reference.webp": "8165f5ed6b94cc67068fbdde95d4cf82ee693b0803513be1184e0a6b96c3395b"
+    }
+  },
+  {
+    "id": "coat-brick-2d",
+    "name": "砖红双排扣短大衣",
+    "assetType": "2d",
+    "category": "top",
+    "details": "a brick-red double-breasted hip-length coat with wide notched lapels, six dark buttons, long sleeves and two welt pockets; no belt.",
+    "position": 17,
+    "creator": "阿门试衣项目（生成素材）",
+    "source": "为阿门试衣制作",
+    "license": "项目生成素材",
+    "modifications": "整理为白底正面服装参考图；不含人物、人台、衣架、文字或品牌。",
+    "sha256": {
+      "original.png": "90c9a04e2be0cdbbca2c1b1a46bed650771622ebc2cc70bc4344ec5f99ae66df",
+      "reference.webp": "ce4068b5ad55cb8bf10d747f3354852fabc831cee3aa0e3ff19cfe8a2e57a7d9"
+    }
+  },
+  {
+    "id": "trench-sand-2d",
+    "name": "沙色系带长风衣",
+    "assetType": "2d",
+    "category": "top",
+    "details": "a sand-beige double-breasted long trench coat with notched lapels, a matching tied belt, plain shoulders, long sleeves, cuff straps and welt pockets.",
+    "position": 18,
+    "creator": "阿门试衣项目（生成素材）",
+    "source": "为阿门试衣制作",
+    "license": "项目生成素材",
+    "modifications": "整理为白底正面服装参考图；不含人物、人台、衣架、文字或品牌。",
+    "sha256": {
+      "original.png": "b1cc7db726fdd1edc582aad7d608e66389d7e1e1369226bf5a7dbdef41e439c3",
+      "reference.webp": "bb8c3aacd790f1e0903889b7418eaf1e6a0df303607f62a20b149af045924983"
+    }
+  }
+]

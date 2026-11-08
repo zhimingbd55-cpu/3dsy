@@ -1,0 +1,8 @@
+dialog.promo-dialog{max-height:92dvh;overflow:auto}
+.promo-dialog .poster-preview{margin:12px 0;max-height:62dvh}
+.promo-dialog .poster-preview img{width:min(100%,340px);height:auto;-webkit-touch-callout:default;user-select:auto}
+.promo-dialog>header [data-close]{width:44px;height:44px;min-width:44px;border:1px solid #ccc;border-radius:10px;font-size:28px}
+.promo-dialog .share-actions{display:flex}
+.promo-dialog .share-actions>button{flex:1;width:100%;min-height:52px;white-space:nowrap;font-size:18px;font-weight:700}
+.promo-dialog .promo-agent-name{margin:8px 0;font-size:18px;font-weight:700;line-height:1.5;overflow-wrap:anywhere}
+.promo-dialog [hidden]{display:none!important}

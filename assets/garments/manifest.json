@@ -1,0 +1,82 @@
+[
+  {
+    "id": "cardigan-berry-2d",
+    "name": "米白V领针织开衫",
+    "assetType": "2d",
+    "category": "top",
+    "details": "a cream chunky-knit V-neck cardigan with five beige buttons, dropped shoulders, long sleeves, and ribbed placket, cuffs and hem.",
+    "position": 14,
+    "creator": "阿门试衣项目（生成素材）",
+    "source": "为阿门试衣制作",
+    "license": "项目生成素材",
+    "modifications": "整理为白底正面服装参考图；不含人物、人台、衣架、文字或品牌。",
+    "sha256": {
+      "original.png": "f21ba3d57cf585ec99214b418f7d110fea565699b81d851dc4e70a1b87a5d8c8",
+      "reference.webp": "df734125af657ff4d1a48f477740fe64ad178aaa097a990b36d87b5deeb81e80"
+    }
+  },
+  {
+    "id": "hoodie-navy-2d",
+    "name": "海军蓝连帽卫衣",
+    "assetType": "2d",
+    "category": "top",
+    "details": "a navy pullover hoodie with an integrated hood, relaxed fit, long sleeves, ribbed cuffs and hem, and a plain kangaroo pocket without logo or text.",
+    "position": 15,
+    "creator": "阿门试衣项目（生成素材）",
+    "source": "为阿门试衣制作",
+    "license": "项目生成素材",
+    "modifications": "整理为白底正面服装参考图；不含人物、人台、衣架、文字或品牌。",
+    "sha256": {
+      "original.png": "27ce875f8a9a7bcf6598b4d35f1067ac89ac3929052af9a9b3f568c69653d2c3",
+      "reference.webp": "72df5f59f4dea9f8dae54d3c9440afb5d4e19d0252b6380f408977d716abe034"
+    }
+  },
+  {
+    "id": "sweater-sage-2d",
+    "name": "鼠尾草绿条纹毛衣",
+    "assetType": "2d",
+    "category": "top",
+    "details": "a sage-green knit sweater with fine ivory horizontal stripes, crew neck, long sleeves and ribbed cuffs and hem; preserve stripe spacing.",
+    "position": 16,
+    "creator": "阿门试衣项目（生成素材）",
+    "source": "为阿门试衣制作",
+    "license": "项目生成素材",
+    "modifications": "整理为白底正面服装参考图；不含人物、人台、衣架、文字或品牌。",
+    "sha256": {
+      "original.png": "3946113923f5d540d9597ee4f76dd11869e316243e97ca8ca335d2c3d266fa34",
+      "reference.webp": "8165f5ed6b94cc67068fbdde95d4cf82ee693b0803513be1184e0a6b96c3395b"
+    }
+  },
+  {
+    "id": "coat-brick-2d",
+    "name": "砖红双排扣短大衣",
+    "assetType": "2d",
+    "category": "top",
+    "details": "a brick-red double-breasted hip-length coat with wide notched lapels, six dark buttons, long sleeves and two welt pockets; no belt.",
+    "position": 17,
+    "creator": "阿门试衣项目（生成素材）",
+    "source": "为阿门试衣制作",
+    "license": "项目生成素材",
+    "modifications": "整理为白底正面服装参考图；不含人物、人台、衣架、文字或品牌。",
+    "sha256": {
+      "original.png": "90c9a04e2be0cdbbca2c1b1a46bed650771622ebc2cc70bc4344ec5f99ae66df",
+      "reference.webp": "ce4068b5ad55cb8bf10d747f3354852fabc831cee3aa0e3ff19cfe8a2e57a7d9"
+    }
+  },
+  {
+    "id": "trench-sand-2d",
+    "name": "沙色系带长风衣",
+    "assetType": "2d",
+    "category": "top",
+    "details": "a sand-beige double-breasted long trench coat with notched lapels, a matching tied belt, plain shoulders, long sleeves, cuff straps and welt pockets.",
+    "position": 18,
+    "creator": "阿门试衣项目（生成素材）",
+    "source": "为阿门试衣制作",
+    "license": "项目生成素材",
+    "modifications": "整理为白底正面服装参考图；不含人物、人台、衣架、文字或品牌。",
+    "sha256": {
+      "original.png": "b1cc7db726fdd1edc582aad7d608e66389d7e1e1369226bf5a7dbdef41e439c3",
+      "reference.webp": "bb8c3aacd790f1e0903889b7418eaf1e6a0df303607f62a20b149af045924983"
+    }
+  }
+]
